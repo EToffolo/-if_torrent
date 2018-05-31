@@ -1,4 +1,4 @@
-![Logo do IFTorrent](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png =600x)
+![Logo do IFTorrent](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png)
 
 # IFTorrent - Compartilhando Arquivo e Ideias 
 ![Versão](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png =x20) [![Documentação](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png =x20)](http://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [![Contate-nos](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png =x20)](mailto:iftorrent@farroupilha.ifrs.edu.br)
