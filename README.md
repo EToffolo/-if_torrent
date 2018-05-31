@@ -1,5 +1,7 @@
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png" width="600">
 
+@rafael-vieira-coelho
+
 # IFTorrent - Compartilhando Arquivo e Ideias 
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png" height="20"> [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png" height="20">](http://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png" height="20">](mailto:iftorrent@farroupilha.ifrs.edu.br)
 
