@@ -100,12 +100,12 @@ A nossa equipe é composta, atualmente, por nove integrantes:
 * __*[Rafael Vieira Coelho](https://github.com/rafael-vieira-coelho)*__ (professor orientador do projeto);
 * __*Gustavo Rodrigo Tausendfreund*__ (profissional de T.I.);
 * __*Eduardo Balbinot*__ (profissional de T.I.);
-* __*Eduardo Toffolo*__ (aluno voluntário);
+* __*[Eduardo Toffolo](https://github.com/EToffolo)*__ (aluno voluntário);
 * __*Leonardo Bortolini*__ (aluno voluntário);
-* __*Gabriel Muller*__ (aluno voluntário);
-* __*Garrenlus de Souza*__ (aluno voluntário);
-* __*Guilherme Giordani*__ (aluno voluntário);
-* __*Otávio Farinon*__ (aluno voluntário).
+* __*[Gabriel Muller](https://github.com/Gabriel2501)*__ (aluno voluntário);
+* __*[Garrenlus de Souza](https://github.com/GarrenSouza)*__ (aluno voluntário);
+* __*[Guilherme Giordani](https://github.com/GuilhermeDaBolsa)*__ (aluno voluntário);
+* __*[Otávio Farinon](https://github.com/ovfarinon)*__ (aluno voluntário).
 
 Há alguns membros que não integram mais a equipe, mas que merecem créditos:
 
