@@ -1,8 +1,7 @@
-![Logo do IFTorrent](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png | width=600)
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png" width="600">
 
 # IFTorrent - Compartilhando Arquivo e Ideias 
-![Versão](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png =x20) [![Documentação](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png =x20)](http://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [![Contate-nos](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png =x20)](mailto:iftorrent@farroupilha.ifrs.edu.br)
+<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png" height="20"> [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png" height="20">](http://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png" height="20">](mailto:iftorrent@farroupilha.ifrs.edu.br)
 
 O projeto IFTorrent tem por finalidade a criação de um cliente torrent para o compartilhamento de arquivos nos _campi_ da rede federal de institutos de educação, ciência e tecnologia.
 
