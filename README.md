@@ -24,7 +24,7 @@ Ou, se preferir, baixe apenas o cliente (sem instalação) no [seguinte link](ht
 Requisito | Mínimo | Recomendado
 ------------ | ------------- | -------------
 Sistema Operacional | Windows | Windows
-Processador | não sei como medir isso | não sei como medir isso
+Processador | Intel Core i7-5500U | Intel Core i9-7900x
 Memória RAM | 2GB | 8GB
 Espaço em Disco | 9MB | 9MB
 Placa de Vídeo | nenhum | nenhum
@@ -39,7 +39,7 @@ Em caso de algum erro ou dúvida, o cliente torrent possui a opção para contat
 
 ### Desenvolvimento
 
-O projeto foi desenvolvido principalmente em Java através da IDE NetBeans. Para a implementação da parte _Web_ não houve um editor fixo, permitindo que os integrantes da equipe escolhessem qual usar.
+O projeto foi desenvolvido principalmente em Java através da **IDE NetBeans**. Para a implementação da parte _Web_ não houve um editor fixo, permitindo que os integrantes da equipe escolhessem qual usar.
 
 Foram usadas também algumas ferramentas para auxiliar o desenvolvimento do projeto:
 
@@ -69,9 +69,10 @@ A equipe optou pela __Metodologia Ágil__ como forma de desenvolvimento do clien
 
 ### Sobre o cliente
 
-Para facilitar, no próprio cliente é disponibilizado um pequeno tutorial de uso do programa. Para acessá-lo, basta clicar na opção __"Ajuda"__ no menu superior a após selecionar a opção __"Fazer um Tour"__. Como maneira alternativa, também é possível iniciar o _tour_ através do conjunto de teclas _**"Ctrl + F1"**_.
+Para facilitar, no próprio cliente é disponibilizado um pequeno tutorial de uso do programa. Para acessá-lo, basta clicar na opção __"Ajuda"__ no menu superior e após selecionar a opção __"Fazer um Tour"__. Como maneira alternativa, também é possível iniciar o _tour_ através do conjunto de teclas _**"Ctrl + F1"**_.
 
-![Interface do Cliente](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/cliente.png "Interface gráfica do cliente torrent" =700x)_Interface do cliente Torrent_
+![Interface do Cliente](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/cliente.png "Interface gráfica do cliente torrent" =700x)
+_Interface do cliente Torrent_
 
 ### Sobre o site
 
@@ -84,7 +85,11 @@ _Interface do site_
 
 ### Licença
 
-A ver ----------------------------------------
+O nosso cliente torrent é distribuído segundo a licença  [**GNU General Public License**](https://www.gnu.org/licenses/gpl.html) (Licença Pública Geral GNU).
+
+Para mais detalhes sobre a licença, acesse o [link abaixo](https://www.gnu.org/licenses/gpl.html):
+
+	https://www.gnu.org/licenses/gpl.html
 
 ### Equipe
 
