@@ -1,7 +1,5 @@
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png" width="600">
 
-@EToffolo
-
 # IFTorrent - Compartilhando Arquivo e Ideias 
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png" height="20"> [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png" height="20">](http://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png" height="20">](mailto:iftorrent@farroupilha.ifrs.edu.br)
 
@@ -99,7 +97,7 @@ Para mais detalhes sobre a licença, acesse o [link abaixo](https://www.gnu.org/
 
 A nossa equipe é composta, atualmente, por nove integrantes: 
 
-* __*Rafael Vieira Coelho*__ (professor orientador do projeto);
+* __*[Rafael Vieira Coelho](https://github.com/rafael-vieira-coelho)*__ (professor orientador do projeto);
 * __*Gustavo Rodrigo Tausendfreund*__ (profissional de T.I.);
 * __*Eduardo Balbinot*__ (profissional de T.I.);
 * __*Eduardo Toffolo*__ (aluno voluntário);
