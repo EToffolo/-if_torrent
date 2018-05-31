@@ -97,7 +97,7 @@ Para mais detalhes sobre a licença, acesse o [link abaixo](https://www.gnu.org/
 
 A nossa equipe é composta, atualmente, por nove integrantes: 
 
-* __*Rafael Vieira Coelho*__ (@rafael-vieira-coelho professor orientador do projeto);
+* __*Rafael Vieira Coelho*__ (professor orientador do projeto);
 * __*Gustavo Rodrigo Tausendfreund*__ (profissional de T.I.);
 * __*Eduardo Balbinot*__ (profissional de T.I.);
 * __*Eduardo Toffolo*__ (aluno voluntário);
