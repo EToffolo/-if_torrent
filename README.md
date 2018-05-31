@@ -11,9 +11,9 @@ Para mais detalhes, acesse a nossa documentação [aqui](http://web.farroupilha.
 
 ### Download 
 
-Sinta-se livre para baixar o código-fonte da nossa aplicação no [link abaixo](http://link-para-a-pagina-no-GitHub.com). *Obs: necessita da IDE _NetBeans_ e do _Java Development Kit_ instalados.
+Sinta-se livre para baixar o código-fonte da nossa aplicação no [link abaixo](https://github.com/IFRS-CampusFarroupilha/-if_torrent). *Obs: necessita da IDE _NetBeans_ e do _Java Development Kit_ instalados.
 
-	http://link-para-a-pagina-no-GitHub.com
+	https://github.com/IFRS-CampusFarroupilha/-if_torrent
 	
 Ou, se preferir, baixe apenas o cliente (sem instalação) no [seguinte link](http://link-para-download-do-cliente.com):
 
@@ -97,7 +97,7 @@ Para mais detalhes sobre a licença, acesse o [link abaixo](https://www.gnu.org/
 
 A nossa equipe é composta, atualmente, por nove integrantes: 
 
-* __*Rafael Vieira Coelho*__ (professor orientador do projeto);
+* __*Rafael Vieira Coelho*__ (@rafael-vieira-coelho professor orientador do projeto);
 * __*Gustavo Rodrigo Tausendfreund*__ (profissional de T.I.);
 * __*Eduardo Balbinot*__ (profissional de T.I.);
 * __*Eduardo Toffolo*__ (aluno voluntário);
