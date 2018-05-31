@@ -72,7 +72,7 @@ A equipe optou pela __Metodologia Ágil__ como forma de desenvolvimento do clien
 Para facilitar, no próprio cliente é disponibilizado um pequeno tutorial de uso do programa. Para acessá-lo, basta clicar na opção __"Ajuda"__ no menu superior e após selecionar a opção __"Fazer um Tour"__. Como maneira alternativa, também é possível iniciar o _tour_ através do conjunto de teclas _**"Ctrl + F1"**_.
 
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/cliente.png" width="700">
-*Interface do cliente Torrent*
+* Interface do cliente Torrent *
 
 ### Sobre o site
 
@@ -81,7 +81,7 @@ O site para _download_  de _arquivos torrents_ se encontra no [link abaixo](http
 	http://web.farroupilha.ifrs.edu.br/paginas/~iftorrent/
 
 <img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/site.png" width="700">
-*Interface do site*
+* Interface do site *
 
 ### Licença
 
