@@ -1,13 +1,13 @@
-<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png" width="600">
+<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/IFTorrent.png" width="600">
 
 # IFTorrent - Compartilhando Arquivo e Ideias 
-<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png" height="20"> [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png" height="20">](http://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png" height="20">](mailto:iftorrent@farroupilha.ifrs.edu.br)
+<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/versao.png" height="20"> [<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/wiki.png" height="20">](https://web.farroupilha.ifrs.edu.br/iftorrentwiki/index.php/P%C3%A1gina_principal) [<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/contato.png" height="20">](mailto:iftorrent@farroupilha.ifrs.edu.br)
 
 O projeto IFTorrent tem por finalidade a criação de um cliente torrent para o compartilhamento de arquivos nos _campi_ da rede federal de institutos de educação, ciência e tecnologia.
 
 A aplicação foi desenvolvida em linguagem *__Java__*, mas há a utilização de outras linguagens, como *__CSS__* e *__FXML__* para a estruturação da interface gráfica. Além disso, foi desenvolvido um site para _download_ de _arquivos torrents_, este em *__HTML__*, *__CSS__*, *__PHP__* e *__MySQL__*.
 
-Para mais detalhes, acesse a nossa documentação [aqui](http://web.farroupilha.ifrs.edu.br/iftorrentwiki//docs/javadoc/javadoc/).
+Para mais detalhes, acesse a nossa documentação [aqui](https://web.farroupilha.ifrs.edu.br/iftorrentwiki//docs/javadoc/javadoc/).
 
 ### Download 
 
@@ -15,9 +15,9 @@ Sinta-se livre para baixar o código-fonte da nossa aplicação no [link abaixo]
 
 	https://github.com/IFRS-CampusFarroupilha/-if_torrent
 	
-Ou, se preferir, baixe apenas o cliente (sem instalação) no [seguinte link](http://web.farroupilha.ifrs.edu.br/paginas/~temp1/IFTorrent.rar):
+Ou, se preferir, baixe apenas o cliente (sem instalação) no [seguinte link](https://web.farroupilha.ifrs.edu.br/paginas/~temp1/IFTorrent.rar):
 
-	http://web.farroupilha.ifrs.edu.br/paginas/~temp1/IFTorrent.rar
+	https://web.farroupilha.ifrs.edu.br/paginas/~temp1/IFTorrent.rar
 
 ### Requisitos de Sistema
 
@@ -71,17 +71,17 @@ A equipe optou pela __Metodologia Ágil__ como forma de desenvolvimento do clien
 
 Para facilitar, no próprio cliente é disponibilizado um pequeno tutorial de uso do programa. Para acessá-lo, basta clicar na opção __"Ajuda"__ no menu superior e após selecionar a opção __"Fazer um Tour"__. Como maneira alternativa, também é possível iniciar o _tour_ através do conjunto de teclas _**"Ctrl + F1"**_.
 
-<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/cliente.png" width="700">
+<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/cliente.png" width="700">
 
 _Interface do cliente Torrent_
 
 ### Sobre o site
 
-O site para _download_  de _arquivos torrents_ se encontra no [link abaixo](http://web.farroupilha.ifrs.edu.br/paginas/~iftorrent/):
+O site para _download_  de _arquivos torrents_ se encontra no [link abaixo](https://web.farroupilha.ifrs.edu.br/paginas/~iftorrent/):
 
-	http://web.farroupilha.ifrs.edu.br/paginas/~iftorrent/
+	https://web.farroupilha.ifrs.edu.br/paginas/~iftorrent/
 
-<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/site.png" width="700">
+<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/site.png" width="700">
 
 _Interface do site_
 
@@ -137,4 +137,4 @@ Para qualquer problema que nosso cliente ou nosso site possa vir a gerar, pedimo
 
 E-mail: [iftorrent@farroupilha.ifrs.edu.br](mailto:iftorrent@farroupilha.ifrs.edu.br)
 
-<img src="http://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/ifrs.png" width="1000">
+<img src="https://web.farroupilha.ifrs.edu.br/paginas/~temp1/imagens/ifrs.png" width="1000">
